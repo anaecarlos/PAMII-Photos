@@ -6,7 +6,8 @@ public partial class PhotosView : ContentPage
 {
 	public PhotosView()
 	{
-        BindingContext = new PhotosViewModel();
+     
         InitializeComponent();
-	}
+        BindingContext = new PhotosViewModel();
+    }
 }

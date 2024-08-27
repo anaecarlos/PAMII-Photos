@@ -29,25 +29,25 @@
     <AppXManifest Include="D:\anaecarlos\PAMII\ExemploHttp\ExemploHttp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-08-20T15:36:04.773</Modified>
+      <Modified>2024-08-27T14:31:15.283</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\anaecarlos\PAMII\ExemploHttp\ExemploHttp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-08-20T15:07:44.563</Modified>
+      <Modified>2024-08-27T14:18:15.050</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\anaecarlos\PAMII\ExemploHttp\ExemploHttp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ExemploHttp.runtimeconfig.json">
       <PackagePath>ExemploHttp.runtimeconfig.json</PackagePath>
-      <Modified>2024-08-20T15:07:44.327</Modified>
+      <Modified>2024-08-27T14:18:14.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\anaecarlos\PAMII\ExemploHttp\ExemploHttp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ExemploHttp.dll">
       <PackagePath>ExemploHttp.dll</PackagePath>
-      <Modified>2024-08-20T15:36:04.458</Modified>
+      <Modified>2024-08-27T14:31:13.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\anaecarlos\PAMII\ExemploHttp\ExemploHttp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ExemploHttp.exe</PackagePath>
-      <Modified>2024-08-20T15:36:04.458</Modified>
+      <Modified>2024-08-27T14:31:13.190</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\anaecarlos\PAMII\ExemploHttp\ExemploHttp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -287,7 +287,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\anaecarlos\PAMII\ExemploHttp\ExemploHttp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ExemploHttp.deps.json">
       <PackagePath>ExemploHttp.deps.json</PackagePath>
-      <Modified>2024-08-20T15:07:44.201</Modified>
+      <Modified>2024-08-27T14:18:14.341</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -297,9 +297,9 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2023-10-16T19:41:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\communitytoolkit.mvvm\8.2.2\lib\net6.0\CommunityToolkit.Mvvm.dll">
+    <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\communitytoolkit.mvvm\8.3.0\lib\net8.0-windows10.0.17763\CommunityToolkit.Mvvm.dll">
       <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
-      <Modified>2023-10-24T20:16:06.000</Modified>
+      <Modified>2024-08-26T20:58:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -345,9 +345,9 @@
       <PackagePath>Microsoft.IO.RecyclableMemoryStream.dll</PackagePath>
       <Modified>2024-06-11T20:23:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.maui.controls.compatibility\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
+    <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.maui.controls.compatibility\8.0.80\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.dll</PackagePath>
-      <Modified>2024-06-24T01:33:38.000</Modified>
+      <Modified>2024-08-06T22:31:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.maui.controls.core\8.0.80\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
       <PackagePath>Microsoft.Maui.Controls.dll</PackagePath>
@@ -577,9 +577,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-06-25T19:48:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.maui.controls.compatibility\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
+    <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.maui.controls.compatibility\8.0.80\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
-      <Modified>2024-06-24T01:18:00.000</Modified>
+      <Modified>2024-08-06T22:07:56.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.maui.controls.core\8.0.80\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
       <PackagePath>Microsoft.Maui.Controls.pri</PackagePath>

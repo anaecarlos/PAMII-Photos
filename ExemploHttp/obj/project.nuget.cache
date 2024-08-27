@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZP5VP1ERXKE=",
+  "dgSpecHash": "oCm939EIIPY=",
   "success": true,
   "projectFilePath": "D:\\anaecarlos\\PAMII\\ExemploHttp\\ExemploHttp\\ExemploHttp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\etechas\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.0\\communitytoolkit.mvvm.8.3.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
@@ -19,7 +19,7 @@
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls\\8.0.80\\microsoft.maui.controls.8.0.80.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.80\\microsoft.maui.controls.build.tasks.8.0.80.nupkg.sha512",
-    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.compatibility\\8.0.61\\microsoft.maui.controls.compatibility.8.0.61.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.compatibility\\8.0.80\\microsoft.maui.controls.compatibility.8.0.80.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.core\\8.0.80\\microsoft.maui.controls.core.8.0.80.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.controls.xaml\\8.0.80\\microsoft.maui.controls.xaml.8.0.80.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.maui.core\\8.0.80\\microsoft.maui.core.8.0.80.nupkg.sha512",
